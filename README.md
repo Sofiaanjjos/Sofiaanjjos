@@ -15,7 +15,7 @@ Dashboard web interativo desenvolvido com apoio do Google Gemini para incentivar
 
 **Foco:** IA aplicada, desenvolvimento web e experiência do usuário.
 
-### 🔗 [InfoLink](https://github.com/Sofiaanjjos/infolink)
+### 🔗 [https://github.com/Sofiaanjjos/infolink-)
 Solução digital para facilitar a divulgação de informações de pequenos negócios.
 
 **Foco:** tecnologia aplicada a necessidades reais e comunicação digital.
