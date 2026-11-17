@@ -24,7 +24,7 @@ Solução digital criada para facilitar a divulgação de informações de peque
 
 **Foco:** tecnologia aplicada a necessidades reais, comunicação digital e organização de informações.
 
-### 📚 [E-book com IA](https://github.com/Sofiaanjjos/ebook-with-ia)
+### 📚 [E-book com IA](https://github.com/Sofiaanjjos/ebook-with-ia-)
 Projeto de criação de e-book com apoio de Inteligência Artificial sobre os quatro pilares do Pensamento Computacional.
 
 **Foco:** IA generativa, pesquisa e produção de conteúdo.
